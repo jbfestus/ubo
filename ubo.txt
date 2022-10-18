@@ -24,3 +24,8 @@ usea1-007.sentinelone.net
 www.applitrack.com
 www.indeed.com
 www.reddit.com
+mail.google.com
+google.com
+docs.google.com
+classroom.google.com
+drive.google.com
